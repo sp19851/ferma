@@ -1,0 +1,5 @@
+["seedling"] 				 = {["name"] = "seedling",					["label"] = "Овощная рассада", 				["weight"] = 100, 		["type"] = "item", 		["image"] = "seedling.png",			["unique"] = false, 		["useable"] = true, 	["shouldClose"] = true,		["combinable"] = nil,  	["description"] = "Нет, это однозначно рано есть"},
+
+["bucket"] 				     = {["name"] = "bucket",					["label"] = "Ведро", 				["weight"] = 100, 		["type"] = "item", 		["image"] = "bucket.png",			["unique"] = false, 		["useable"] = false, 	["shouldClose"] = false,		["combinable"] = nil,  	["description"] = "Пустое ведро"},
+["bucketwater"] 		     = {["name"] = "bucketWater",				["label"] = "Ведро с водой", 		["weight"] = 100, 		["type"] = "item", 		["image"] = "bucketWater.png",		["unique"] = false, 		["useable"] = false, 	["shouldClose"] = false,		["combinable"] = nil,  	["description"] = "Лучше эту воду не пить"},
+["dry_root"] 		            = {["name"] = "dry_root",				    ["label"] = "Сухой корешок", 		["weight"] = 100, 		["type"] = "item", 		["image"] = "dry_root.png",		    ["unique"] = false, 		["useable"] = false, 	["shouldClose"] = false,		["combinable"] = nil,  	["description"] = "Это могло быть овощем"},
