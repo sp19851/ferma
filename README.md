@@ -1,1 +1,1 @@
-# ferma for QBCore
+# farm script for QBCore
